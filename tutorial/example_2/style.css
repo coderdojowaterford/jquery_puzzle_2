@@ -1,0 +1,17 @@
+div {
+	margin:20px; 
+}
+
+.large-div {
+	height: 450px;
+	width: 450px;
+}
+
+.small-div {
+	height: 146px;
+	width: 146px;
+}
+
+.test-div {
+	border: solid 1px silver;
+}

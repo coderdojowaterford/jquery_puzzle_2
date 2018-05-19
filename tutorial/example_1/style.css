@@ -1,0 +1,28 @@
+div {
+	margin: 20px;	
+}
+
+.big-div {
+	height: 500px;
+	width: 500px;
+}
+
+.medium-div {
+	height: 300px;
+	width: 300px;
+}
+
+.small-div {
+	height: 146px;
+	width: 146px;
+}
+
+.first-background {
+	background: url(img/tiger.jpg);
+}
+.second-background {
+	background: url(img/bridge.jpg);
+}
+.third-background {
+	background: url(img/train.jpg);
+}
